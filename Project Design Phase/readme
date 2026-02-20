@@ -1,0 +1,7 @@
+The Project Design Phase defines the overall structure and workflow of “ToyCraft Tales: Tableau's Vision into Toy Manufacturer Data.”
+
+In this phase, the database schema, table relationships, data flow, and dashboard layout are designed.
+
+It includes planning the SQL query structure and visualization formats such as charts, graphs, and interactive dashboards in Tableau.
+
+This phase ensures the system is logically structured before implementation begins.
