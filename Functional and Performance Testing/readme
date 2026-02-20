@@ -1,0 +1,7 @@
+The Functional and Performance Testing phase ensures that “ToyCraft Tales: Tableau's Vision into Toy Manufacturer Data” works correctly and efficiently.
+
+Functional testing verifies that all features such as database operations, SQL queries, data connection, and Tableau dashboards are working as expected.
+
+Performance testing checks the system’s speed, responsiveness, and ability to handle large datasets without errors or delays.
+
+This phase ensures accuracy, reliability, and smooth performance of the final analytical solution.
