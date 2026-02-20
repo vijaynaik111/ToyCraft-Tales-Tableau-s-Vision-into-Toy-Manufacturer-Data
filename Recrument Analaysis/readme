@@ -1,0 +1,7 @@
+The Requirement Analysis phase defines the functional and non-functional requirements of the project “ToyCraft Tales: Tableau's Vision into Toy Manufacturer Data.”
+
+In this phase, we identify the required dataset, database setup, SQL operations, and Tableau dashboard features.
+
+It ensures the system can perform data cleaning, analysis, and generate interactive visualizations such as sales trends, profit analysis, and category-wise performance.
+
+This phase guarantees that all business and technical requirements are clearly understood before development begins.
